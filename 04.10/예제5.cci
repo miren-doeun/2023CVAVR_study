@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:568A54E9
+NODE:I LEVEL:0 LINE:8 "C:\cvavreval\inc\mega128a.h"
+NODE:I LEVEL:0 LINE:9 "C:\cvavreval\inc\delay.h"
+NODE:C LEVEL:0 LINE:11 "seg -> FLASH"
+NODE:F LEVEL:0 LINE:14 "main(void)"
+NODE:F LEVEL:0 LINE:32 "SEG4(int num)"
